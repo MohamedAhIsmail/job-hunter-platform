@@ -4,6 +4,14 @@ A modern full-stack **Job Board Platform** built with **React** and **Node.js**,
 
 It was developed as part of the **ITI Projects (2025)** during the **ITI ICC Training**.
 
+---
+
+## 📦 Project Modules
+
+| App Name         | Description                                                              | GitHub Repository                                                               |
+| ---------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------- |
+| Web Application | React-based job board platform where users browse and apply to jobs      | [Frontend](https://github.com/MohamedAhIsmail/job-hunter-platform-react)                  |
+| Backend API      | Node.js + Express API serving the platform with auth, jobs, applications | [Backend API](https://github.com/MohamedAhIsmail/job-hunter-platform-node) |
 
 ---
 
