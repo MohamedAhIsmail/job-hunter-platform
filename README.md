@@ -62,6 +62,10 @@ It was developed as part of the **ITI Projects (2025)** during the **ITI ICC Tra
 
 ---
 
+## 📄 License
+
+This project is open-source and available under the MIT License.
+
 
 
 
